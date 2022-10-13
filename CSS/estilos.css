@@ -1,3 +1,9 @@
 h1 {
     font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 23px;
+    text-shadow: 0.1em 0.1em rgb(119, 119, 119);
 }
